@@ -3,7 +3,7 @@ practice
 <html>
   <head>
   </head>
-  hi {
+  h1 {
   color: orange;
   }
   <body>

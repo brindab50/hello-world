@@ -1,3 +1,11 @@
 # hello-world
 practice
-<p hellow world my name is Brinda/>
+<html>
+  <head>
+  </head>
+  <body>
+    <hi> hello world </h1>
+    <p> hi my name is brinda </p>
+    <br>
+    <p> i am new to coding </p>
+    

@@ -8,4 +8,6 @@ practice
     <p> hi my name is brinda </p>
     <br>
     <p> i am new to coding </p>
-    
+    body { 
+    color: orange;
+    }
